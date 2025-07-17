@@ -23,6 +23,6 @@
   "instructions": {
     "adding_new_games": "To add a new game, add an entry to the 'available_games' array with appId, name, status, and last_updated fields",
     "file_structure": "Each game should have a corresponding folder named with its appId containing the bypass files in ZIP format",
-    "download_url_pattern": "https://github.com/idkjace/misc-stuff/raw/refs/heads/main/denuvo-bypass/{appId}.zip"
+    "download_url_pattern": "https://github.com/idkjace/misc-stuff/raw/main/denuvo-bypass/{appId}.zip"
   }
 }
