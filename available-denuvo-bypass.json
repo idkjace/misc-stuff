@@ -4,13 +4,17 @@
       "appId": "1846380",
       "name": "Need For Speed Unbound",
       "status": "available",
-      "last_updated": "2025-07-17"
+      "platform": "ea",
+      "last_updated": "2025-07-17",
+      "description": "EA/Origin game - direct copy method"
     },
     {
       "appId": "1222680",
       "name": "Need For Speed Heat",
-      "status": "available", 
-      "last_updated": "2025-07-17"
+      "status": "available",
+      "platform": "ea", 
+      "last_updated": "2025-07-17",
+      "description": "EA/Origin game on Steam - direct copy method"
     }
   ],
   "metadata": {
@@ -18,11 +22,20 @@
     "total_games": 2,
     "last_updated": "2025-07-17",
     "repository_url": "https://github.com/idkjace/misc-stuff/tree/main/denuvo-bypass",
-    "format_version": "1.0"
+    "format_version": "1.0",
+    "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   },
   "instructions": {
-    "adding_new_games": "To add a new game, add an entry to the 'available_games' array with appId, name, status, and last_updated fields",
+    "adding_new_games": "To add a new game, add an entry to the 'available_games' array with appId, name, status, platform, and last_updated fields",
     "file_structure": "Each game should have a corresponding folder named with its appId containing the bypass files in ZIP format",
-    "download_url_pattern": "https://github.com/idkjace/misc-stuff/raw/main/denuvo-bypass/{appId}.zip"
+    "download_url_pattern": "https://github.com/idkjace/misc-stuff/raw/main/denuvo-bypass/{appId}.zip",
+    "platforms": {
+      "steam": "Steam games - creates _o backups before applying",
+      "ea": "EA/Origin games - direct copy, no backups",
+      "origin": "Alias for EA games",
+      "ubisoft": "Ubisoft games - creates _o backups before applying", 
+      "uplay": "Alias for Ubisoft games",
+      "generic": "Generic platform - direct copy, no backups"
+    }
   }
 }
