@@ -24,18 +24,5 @@
     "repository_url": "https://github.com/idkjace/misc-stuff/tree/main/denuvo-bypass",
     "format_version": "1.0",
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
-  },
-  "instructions": {
-    "adding_new_games": "To add a new game, add an entry to the 'available_games' array with appId, name, status, platform, and last_updated fields",
-    "file_structure": "Each game should have a corresponding folder named with its appId containing the bypass files in ZIP format",
-    "download_url_pattern": "https://github.com/idkjace/misc-stuff/raw/main/denuvo-bypass/{appId}.zip",
-    "platforms": {
-      "steam": "Steam games - creates _o backups before applying",
-      "ea": "EA/Origin games - direct copy, no backups",
-      "origin": "Alias for EA games",
-      "ubisoft": "Ubisoft games - creates _o backups before applying", 
-      "uplay": "Alias for Ubisoft games",
-      "generic": "Generic platform - direct copy, no backups"
-    }
   }
 }
