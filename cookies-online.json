@@ -78,18 +78,6 @@
         "value": "AQIWQBRSDtrtcKe5s4ia9Hg"
     },
     {
-        "domain": "uploads.online-fix.me",
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "online_fix_auth",
-        "path": "/uploads/Abyssus",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "gAAAAABoptpnXoorDtT_zgAHydkNmd3nZ6cy5Ix5Z40w2QGyb2tK_ae8Ij934vS-OmWPQ1tw7ulmCKVPylP-4iO-p80FpiZRyS6F7ckyUAJpJZ58q9Ff_yL-k8k4f90gOtt_1S2fc9iYB5W_Ur3Im1Ppx_cbVNVBTY5k6_qCDhrHYml98HeDYfXzOoTM5eAvOSA0rDG0kxqwpTagyeutCCvhpllzc0Ry7w=="
-    },
-    {
         "domain": ".online-fix.me",
         "expirationDate": 1784958639.841492,
         "hostOnly": false,
@@ -112,6 +100,6 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "4pa230de7cfh4qn23scdec6l00"
+        "value": "e8um6pue4fvj10sfn05vqvo2cj"
     }
 ]
