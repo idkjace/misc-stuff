@@ -15,6 +15,30 @@
       "platform": "ea", 
       "last_updated": "2025-07-17",
       "description": "EA/Origin game on Steam - direct copy method"
+    },
+    {
+      "appId": "2050650",
+      "name": "Resident Evil 4",
+      "status": "available",
+      "platform": "steam", 
+      "last_updated": "2025-07-17",
+      "description": "Steam game - direct copy method"
+    },
+    {
+      "appId": "3159330",
+      "name": "Assassin's Creed Shadows",
+      "status": "available",
+      "platform": "ubisoft", 
+      "last_updated": "2025-07-17",
+      "description": "Ubisoft game - direct copy method"
+    },
+    {
+      "appId": "3489700",
+      "name": "Stellar Blade",
+      "status": "available",
+      "platform": "steam", 
+      "last_updated": "2025-07-17",
+      "description": "Steam game - direct copy method"
     }
   ],
   "metadata": {
