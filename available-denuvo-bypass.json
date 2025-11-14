@@ -33,8 +33,8 @@
       "description": "Ubisoft game - direct copy method"
     },
     {
-      "appId": "3489700",
-      "name": "Stellar Blade",
+      "appId": "2161700",
+      "name": "Persona 3 Reload",
       "status": "available",
       "platform": "steam", 
       "last_updated": "2025-07-17",
@@ -50,3 +50,4 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
