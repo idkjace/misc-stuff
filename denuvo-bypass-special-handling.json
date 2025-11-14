@@ -1,0 +1,13 @@
+{
+  "2050650": {
+    "description": "Resident Evil 4 - Requires CrashReport.exe renamed to Zzz.exe",
+    "rules": [
+      {
+        "sourceFile": "crashreport.exe",
+        "targetFile": "Zzz.exe",
+        "action": "rename",
+        "description": "Rename Zzz.exe from CrashReport.exe for Resident Evil 4"
+      }
+    ]
+  }
+}
