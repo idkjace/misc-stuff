@@ -1,0 +1,162 @@
+[
+  {
+    "name": "OnlineFix",
+    "url": "https://hydralinks.pages.dev/sources/onlinefix.json"
+  },
+  {
+    "name": "Xatab",
+    "url": "https://hydralinks.pages.dev/sources/xatab.json"
+  },
+  {
+    "name": "GOG",
+    "url": "https://hydralinks.pages.dev/sources/gog.json"
+  },
+  {
+    "name": "ATOP Games",
+    "url": "https://hydralinks.pages.dev/sources/atop-games.json"
+  },
+  {
+    "name": "SteamGG",
+    "url": "https://raw.githubusercontent.com/Wkeynhk/Rutor/refs/heads/main/steamgg.json"
+  },
+  {
+    "name": "KaosKrew",
+    "url": "https://hydralinks.pages.dev/sources/kaoskrew.json"
+  },
+  {
+    "name": "Rutor",
+    "url": "https://raw.githubusercontent.com/Wkeynhk/Rutor/refs/heads/main/rutor.json"
+  },
+  {
+    "name": "Fonte Kazumi",
+    "url": "https://davidkazumi-github-io.pages.dev/fontekazumi.json"
+  },
+  {
+    "name": "SteamRIP",
+    "url": "https://hydralinks.pages.dev/sources/steamrip.json"
+  },
+  {
+    "name": "RuTracker Linux",
+    "url": "https://raw.githubusercontent.com/Wkeynhk/RuTracker-Linux/refs/heads/main/rutrackerlinux.json"
+  },
+  {
+    "name": "FitGirl",
+    "url": "https://hydralinks.pages.dev/sources/fitgirl.json"
+  },
+  {
+    "name": "Hydra Sources",
+    "url": "https://hydrasources.su/hydra.json"
+  },
+  {
+    "name": "DODI",
+    "url": "https://hydralinks.pages.dev/sources/dodi.json"
+  },
+  {
+    "name": "EMPRESS",
+    "url": "https://hydralinks.pages.dev/sources/empress.json"
+  },
+  {
+    "name": "RuTracker All",
+    "url": "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
+  },
+  {
+    "name": "Shisuys Source",
+    "url": "https://raw.githubusercontent.com/Shisuiicaro/source/refs/heads/main/shisuyssource.json"
+  },
+  {
+    "name": "TinyRepacks",
+    "url": "https://hydralinks.pages.dev/sources/tinyrepacks.json"
+  },
+  {
+    "name": "EroTorrent",
+    "url": "https://raw.githubusercontent.com/s0d4lite52spb/sodalite-hydralinks/refs/heads/main/erotorrent.ru_list.json"
+  },
+  {
+    "name": "Denuvo Public",
+    "url": "https://konthe1.github.io/DenuvoPubSource.json"
+  },
+  {
+    "name": "Tapochek",
+    "url": "https://hydra.ramus.cc/sources/tapochek.json"
+  },
+  {
+    "name": "Fonte Teste",
+    "url": "https://trash-xrl.github.io/Fonte%20teste.json"
+  },
+  {
+    "name": "NNM Club",
+    "url": "https://hydrasources.su/nnmclub.json"
+  },
+  {
+    "name": "Bumyy Software",
+    "url": "https://bumyy32.github.io/bumyysoftware.json"
+  },
+  {
+    "name": "IrisHub",
+    "url": "https://raw.githubusercontent.com/irisihrz/json/refs/heads/main/irishub.json"
+  },
+  {
+    "name": "FitGirl (Vinik)",
+    "url": "https://raw.githubusercontent.com/vinikjkkj/game-links-collection/refs/heads/master/jsons/fitgirl.json"
+  },
+  {
+    "name": "World of PC Games",
+    "url": "https://raw.githubusercontent.com/Smealm/hydra-launcher-stuff/refs/heads/main/hydra%20sources/FMHY/world%20of%20pc%20games/worldofpcgames.json"
+  },
+  {
+    "name": "SteamRIP (Vinik)",
+    "url": "https://raw.githubusercontent.com/vinikjkkj/game-links-collection/refs/heads/master/jsons/steamrip.json"
+  },
+  {
+    "name": "Skidrow Reloaded",
+    "url": "https://raw.githubusercontent.com/Altansar69/Hydra-Library/refs/heads/main/hydra-skidrowreloaded/skidrow_cleaned.json"
+  },
+  {
+    "name": "GameDrive",
+    "url": "https://raw.githubusercontent.com/BITO21/BITO_sources/refs/heads/master/GameDrive.json"
+  },
+  {
+    "name": "arSS",
+    "url": "https://raw.githubusercontent.com/alllibrary-web/arSS/refs/heads/main/arSS%20for%20Hydra.json"
+  },
+  {
+    "name": "FreeTP",
+    "url": "https://raw.githubusercontent.com/BadKiko/freetp-hydra-link/refs/heads/main/games.json"
+  },
+  {
+    "name": "Achievement Hub",
+    "url": "https://achievement-hub.netlify.app/achievement.json"
+  },
+  {
+    "name": "Nexus",
+    "url": "https://nexusbuildcompany.github.io/nexus.json"
+  },
+  {
+    "name": "Skidrow (Merabet)",
+    "url": "https://raw.githubusercontent.com/Merabet4mine/merabet4mine.github.io/refs/heads/master/assets/skidrow.json"
+  },
+  {
+    "name": "Warph Collection",
+    "url": "https://wpnnt.github.io/sources/warph_collection.json"
+  },
+  {
+    "name": "GamesTorrents",
+    "url": "https://raw.githubusercontent.com/Altansar69/Hydra-Library/refs/heads/main/hydra-gamestorrents/gamestorrents.json"
+  },
+  {
+    "name": "Torrminatorr Linux",
+    "url": "https://torrents.starserv.net/torrents/sources/torrminatorr_linuxrule"
+  },
+  {
+    "name": "VxVulgo",
+    "url": "https://vxvulgooficial.github.io/vxvulgooficial/vxvulgo.json"
+  },
+  {
+    "name": "Gestapo Source",
+    "url": "https://raw.githubusercontent.com/ewx12344/Gestapo-Source/refs/heads/main/gestaposource.json"
+  },
+  {
+    "name": "Linux Games",
+    "url": "https://ggvv13.github.io/Linux-Games.json"
+  }
+]
