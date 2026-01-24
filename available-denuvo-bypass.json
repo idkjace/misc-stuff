@@ -39,6 +39,30 @@
       "platform": "ea", 
       "last_updated": "2025-07-17",
       "description": "EA/Origin game on Steam - direct copy method"
+    },
+    {
+      "appId": "3274580",
+      "name": "Anno 117: Pax Romana",
+      "status": "available",
+      "platform": "ubisoft", 
+      "last_updated": "2025-07-17",
+      "description": "Ubisoft game - direct copy method"
+    },
+    {
+      "appId": "2840770",
+      "name": "Avatar: Frontiers of Pandora",
+      "status": "available",
+      "platform": "ubisoft", 
+      "last_updated": "2025-07-17",
+      "description": "Ubisoft game - direct copy method"
+    },
+    {
+      "appId": "2842040",
+      "name": "Star Wars Outlaws",
+      "status": "available",
+      "platform": "ubisoft", 
+      "last_updated": "2025-07-17",
+      "description": "Ubisoft game - direct copy method"
     }
   ],
   "metadata": {
@@ -50,4 +74,5 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
 
