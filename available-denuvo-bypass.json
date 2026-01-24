@@ -31,6 +31,14 @@
       "platform": "ubisoft", 
       "last_updated": "2025-07-17",
       "description": "Ubisoft game - direct copy method"
+    },
+    {
+      "appId": "3405690",
+      "name": "EA SPORTS FC™ 26",
+      "status": "available",
+      "platform": "ea", 
+      "last_updated": "2025-07-17",
+      "description": "EA/Origin game on Steam - direct copy method"
     }
   ],
   "metadata": {
@@ -42,3 +50,4 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
