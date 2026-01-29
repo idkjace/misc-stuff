@@ -111,6 +111,14 @@
       "platform": "ea", 
       "last_updated": "2025-07-17",
       "description": "EA game - direct copy method"
+    },
+    {
+      "appId": "2246340",
+      "name": "Monster Hunter Wilds",
+      "status": "available",
+      "platform": "steam", 
+      "last_updated": "2025-07-17",
+      "description": "Steam game - direct copy method"
     }
   ],
   "metadata": {
@@ -122,6 +130,7 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
 
 
 
