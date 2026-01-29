@@ -103,6 +103,14 @@
       "platform": "ubisoft", 
       "last_updated": "2025-07-17",
       "description": "Ubisoft game - direct copy method"
+    },
+    {
+      "appId": "1262580",
+      "name": "Need For Speed Payback",
+      "status": "available",
+      "platform": "ea", 
+      "last_updated": "2025-07-17",
+      "description": "EA game - direct copy method"
     }
   ],
   "metadata": {
@@ -114,6 +122,7 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
 
 
 
