@@ -1,0 +1,13 @@
+{
+    "3274580": {
+        "name": "Anno 117: Pax Romana",
+        "executables": [
+            {
+                "path": "Bin/Win64/Anno117.exe",
+                "platform": "ubisoft",
+                "priority": 1,
+                "notes": ""
+            }
+        ]
+    }
+}
