@@ -138,15 +138,6 @@
       "last_updated": "2025-07-17",
       "description": "Steam game - direct copy method",
       "requiresBypass": true
-    },
-    {
-      "appId": "1004640",
-      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
-      "status": "available",
-      "platform": "steam", 
-      "last_updated": "2025-07-17",
-      "description": "Steam game - direct copy method",
-      "requiresBypass": true
     }
   ],
   "metadata": {
@@ -158,6 +149,7 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
 
 
 
