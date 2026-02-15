@@ -119,7 +119,8 @@
       "platform": "steam", 
       "last_updated": "2025-07-17",
       "description": "Steam game - direct copy method",
-      "requiresBypass": true
+      "requiresBypass": true,
+      "renameCrashReport": true
     },
     {
       "appId": "2054970",
@@ -128,7 +129,8 @@
       "platform": "steam", 
       "last_updated": "2025-07-17",
       "description": "Steam game - direct copy method",
-      "requiresBypass": true
+      "requiresBypass": true,
+      "renameCrashReport": true
     },
     {
       "appId": "1364780",
@@ -137,7 +139,8 @@
       "platform": "steam", 
       "last_updated": "2025-07-17",
       "description": "Steam game - direct copy method",
-      "requiresBypass": true
+      "requiresBypass": true,
+      "renameCrashReport": true
     },
     {
       "appId": "1004640",
@@ -158,6 +161,7 @@
     "supported_platforms": ["steam", "ea", "origin", "ubisoft", "uplay", "generic"]
   }
 }
+
 
 
 
