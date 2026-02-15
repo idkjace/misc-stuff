@@ -1,7 +1,19 @@
 {
-  "appIds": [
-    "2362060",
-    "3937550",
-    "2499860"
+  "games": [
+    {
+      "appId": "2362060",
+      "tags": ["Now on Account Sharing"],
+      "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring."
+    },
+    {
+      "appId": "3937550",
+      "tags": ["Now on Account Sharing"],
+      "description": "YAKUZA KIWAMI 3 is an extreme remake of the action-adventure beat 'em up Yakuza 3 featuring ex-yakuza Kazuma Kiryu's fight to protect those he loves. DARK TIES is a brand-new game featuring Yoshitaka Mine from Yakuza 3 included as a separate action-packed experience."
+    },
+    {
+      "appId": "2499860",
+      "tags": ["Now on Account Sharing"],
+      "description": "Set sail on an adventure spanning past and present in DRAGON QUEST VII Reimagined!"
+    }
   ]
 }
