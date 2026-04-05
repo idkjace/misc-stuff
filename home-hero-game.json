@@ -1,6 +1,21 @@
 {
   "games": [
     {
+      "appId": "3764200",
+      "tags": ["Soon on Denuvo Activation"],
+      "description": "Requiem for the dead. Nightmare for the living. Prepare to escape death in a heart-stopping experience that will chill you to your core."
+    },
+    {
+      "appId": "2852190",
+      "tags": ["Soon on Denuvo Activation"],
+      "description": "The third entry in the Monster Hunter Stories RPG series is here! Twin Rathalos, born in a twist of fate. Monster Hunter Stories is an RPG series set in the Monster Hunter world, where you can become a Rider, raising and bonding with your favorite monsters."
+    },
+    {
+      "appId": "3321460",
+      "tags": ["Soon on Account Sharing"],
+      "description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery."
+    },
+    {
       "appId": "2362060",
       "tags": ["Now on Account Sharing"],
       "description": "An epic adventure awaits, where you and your chosen partners explore a post-apocalyptic world, face fierce battles against powerful enemies, and uncover an epic story that transcends time."
@@ -15,20 +30,5 @@
       "tags": ["Now on Account Sharing"],
       "description": "Set sail on an adventure spanning past and present in DRAGON QUEST VII Reimagined!"
     },
-    {
-      "appId": "1364780",
-      "tags": ["Now on Denuvo Activation"],
-      "description": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub."
-    },
-    {
-      "appId": "2054970",
-      "tags": ["Now on Denuvo Activation"],
-      "description": "Dragon’s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more - in a truly immersive fantasy world."
-    },
-    {
-      "appId": "2246340",
-      "tags": ["Now on Denuvo Activation"],
-      "description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality."
-    }
   ]
 }
