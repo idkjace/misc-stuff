@@ -2,44 +2,32 @@
   "games": [
     {
       "appId": "3764200",
-      "tags": [
-        "Soon on Denuvo Activation"
-      ],
+      "tags": ["Soon on Denuvo Activation"],
       "description": "Requiem for the dead. Nightmare for the living. Prepare to escape death in a heart-stopping experience that will chill you to your core."
     },
     {
       "appId": "2852190",
-      "tags": [
-        "Soon on Denuvo Activation"
-      ],
+      "tags": ["Soon on Denuvo Activation"],
       "description": "The third entry in the Monster Hunter Stories RPG series is here! Twin Rathalos, born in a twist of fate. Monster Hunter Stories is an RPG series set in the Monster Hunter world, where you can become a Rider, raising and bonding with your favorite monsters."
     },
     {
       "appId": "3321460",
-      "tags": [
-        "Soon on Account Sharing"
-      ],
+      "tags": ["Soon on Account Sharing"],
       "description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery."
     },
     {
       "appId": "2362060",
-      "tags": [
-        "Now on Account Sharing"
-      ],
+      "tags": ["Now on Account Sharing"],
       "description": "An epic adventure awaits, where you and your chosen partners explore a post-apocalyptic world, face fierce battles against powerful enemies, and uncover an epic story that transcends time."
     },
     {
       "appId": "3937550",
-      "tags": [
-        "Now on Account Sharing"
-      ],
+      "tags": ["Now on Account Sharing"],
       "description": "YAKUZA KIWAMI 3 is an extreme remake of the action-adventure beat 'em up Yakuza 3 featuring ex-yakuza Kazuma Kiryu's fight to protect those he loves."
     },
     {
       "appId": "2499860",
-      "tags": [
-        "Now on Account Sharing"
-      ],
+      "tags": ["Now on Account Sharing"],
       "description": "Set sail on an adventure spanning past and present in DRAGON QUEST VII Reimagined!"
     }
   ]
