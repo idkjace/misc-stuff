@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "appId": 2624870,
+      "title": "Life is Strange: Reunion",
+      "version": "v1.1.1266265 Compatible Bypass",
+      "source": "Github",
+      "updatedAt": "2026-04-29",
+      "changes": [
+        {
+          "depotId": "2624871",
+          "currentManifestId": "4844659092145754092",
+          "newManifestId": "7011037850445410152"
+        }
+      ]
+    },
+    {
+      "appId": 3764201,
+      "title": "Example Multi-Change App",
+      "version": "v1.0.0",
+      "source": "Hydra sample data",
+      "updatedAt": "2026-04-29",
+      "changes": [
+        {
+          "depotId": "3764201",
+          "currentManifestId": "2990234554016452841",
+          "newManifestId": "9166256367562763038"
+        },
+        {
+          "depotId": "3764202",
+          "currentManifestId": "7339008022245113091",
+          "newManifestId": "1021227334891205007"
+        }
+      ]
+    }
+  ]
+}
