@@ -143,14 +143,23 @@
       "renameCrashReport": true
     },
     {
-      "appId": "1004640",
-      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "appId": "3357650",
+      "name": "PRAGMATA",
       "status": "available",
       "platform": "steam", 
       "last_updated": "2025-07-17",
       "description": "Steam game - direct copy method",
       "requiresBypass": true
-    }
+    },
+    {
+      "appId": "2852190",
+      "name": "Monster Hunter Stories 3: Twisted Reflection",
+      "status": "available",
+      "platform": "steam", 
+      "last_updated": "2025-07-17",
+      "description": "Steam game - direct copy method",
+      "requiresBypass": true
+    },
   ],
   "metadata": {
     "version": "1.0.0",
