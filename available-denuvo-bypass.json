@@ -159,7 +159,7 @@
       "last_updated": "2025-07-17",
       "description": "Steam game - direct copy method",
       "requiresBypass": true
-    },
+    }
   ],
   "metadata": {
     "version": "1.0.0",
