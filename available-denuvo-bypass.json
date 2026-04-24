@@ -152,6 +152,15 @@
       "requiresBypass": true
     },
     {
+      "appId": "3764200",
+      "name": "Resident Evil Requiem",
+      "status": "available",
+      "platform": "steam", 
+      "last_updated": "2025-07-17",
+      "description": "Steam game - direct copy method",
+      "requiresBypass": true
+    },
+    {
       "appId": "2852190",
       "name": "Monster Hunter Stories 3: Twisted Reflection",
       "status": "available",
