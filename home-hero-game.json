@@ -1,18 +1,33 @@
 {
   "games": [
     {
-      "appId": "3357650",
+      "appId": "3483510",
       "tags": ["Soon on Denuvo Activation"],
+      "description": "A brand-new action RPG from the creators of OCTOPATH TRAVELER and BRAVELY DEFAULT – The Adventures of Elliot: The Millennium Tales combines stunning HD-2D visuals and exciting action-adventure gameplay for the first time!"
+    }.
+    {
+      "appId": "3768760",
+      "tags": ["Now on Account Sharing"],
+      "description": "007 First Light is a thrilling espionage action-adventure game from IO Interactive."
+    }.
+    {
+      "appId": "2215200",
+      "tags": ["Now on Account Sharing"],
+      "description": "Rise as the Dark Knight and experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an open-world Gotham City, and the signature LEGO charm that fans know and love."
+    }.
+    {
+      "appId": "3357650",
+      "tags": ["Now on Denuvo Activation"],
       "description": "Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth."
     },
     {
       "appId": "3764200",
-      "tags": ["Soon on Denuvo Activation"],
+      "tags": ["Now on Denuvo Activation"],
       "description": "Requiem for the dead. Nightmare for the living. Prepare to escape death in a heart-stopping experience that will chill you to your core."
     },
     {
       "appId": "2852190",
-      "tags": ["Soon on Denuvo Activation"],
+      "tags": ["Now on Denuvo Activation"],
       "description": "The third entry in the Monster Hunter Stories RPG series is here! Twin Rathalos, born in a twist of fate. Monster Hunter Stories is an RPG series set in the Monster Hunter world, where you can become a Rider, raising and bonding with your favorite monsters."
     },
     {
@@ -29,11 +44,6 @@
       "appId": "3937550",
       "tags": ["Now on Account Sharing"],
       "description": "YAKUZA KIWAMI 3 is an extreme remake of the action-adventure beat 'em up Yakuza 3 featuring ex-yakuza Kazuma Kiryu's fight to protect those he loves."
-    },
-    {
-      "appId": "2499860",
-      "tags": ["Now on Account Sharing"],
-      "description": "Set sail on an adventure spanning past and present in DRAGON QUEST VII Reimagined!"
     }
   ]
 }
