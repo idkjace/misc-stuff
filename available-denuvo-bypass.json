@@ -41,40 +41,8 @@
       "description": "EA/Origin game on Steam - direct copy method"
     },
     {
-      "appId": "2195250",
-      "name": "EA SPORTS FC™ 24",
-      "status": "available",
-      "platform": "ea", 
-      "last_updated": "2025-07-17",
-      "description": "EA/Origin game on Steam - direct copy method"
-    },
-    {
       "appId": "2669320",
       "name": "EA SPORTS FC™ 25",
-      "status": "available",
-      "platform": "ea", 
-      "last_updated": "2025-07-17",
-      "description": "EA/Origin game on Steam - direct copy method"
-    },
-    {
-      "appId": "1307710",
-      "name": "GRID Legends",
-      "status": "available",
-      "platform": "ea", 
-      "last_updated": "2025-07-17",
-      "description": "EA/Origin game on Steam - direct copy method"
-    },
-    {
-      "appId": "1677350",
-      "name": "EA SPORTS™ PGA TOUR™",
-      "status": "available",
-      "platform": "ea", 
-      "last_updated": "2025-07-17",
-      "description": "EA/Origin game on Steam - direct copy method"
-    },
-    {
-      "appId": "3230400",
-      "name": "EA SPORTS™ Madden NFL 26",
       "status": "available",
       "platform": "ea", 
       "last_updated": "2025-07-17",
