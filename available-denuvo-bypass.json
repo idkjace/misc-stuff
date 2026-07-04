@@ -1,22 +1,6 @@
 {
   "available_games": [
     {
-      "appId": "1846380",
-      "name": "Need For Speed Unbound",
-      "status": "available",
-      "platform": "ea",
-      "last_updated": "2025-07-17",
-      "description": "EA/Origin game - direct copy method"
-    },
-    {
-      "appId": "1222680",
-      "name": "Need For Speed Heat",
-      "status": "available",
-      "platform": "ea", 
-      "last_updated": "2025-07-17",
-      "description": "EA/Origin game on Steam - direct copy method"
-    },
-    {
       "appId": "3159330",
       "name": "Assassin's Creed Shadows",
       "status": "available",
@@ -71,14 +55,6 @@
       "platform": "ubisoft", 
       "last_updated": "2025-07-17",
       "description": "Ubisoft game - direct copy method"
-    },
-    {
-      "appId": "1262580",
-      "name": "Need For Speed Payback",
-      "status": "available",
-      "platform": "ea", 
-      "last_updated": "2025-07-17",
-      "description": "EA game - direct copy method"
     },
     {
       "appId": "2246340",
